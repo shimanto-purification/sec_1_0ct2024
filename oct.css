@@ -1,0 +1,13 @@
+
+
+
+p{
+   
+    border: 3px solid rgb(17, 6, 58);
+    background-color: rgb(91, 28, 154);
+    height: 200px;
+    width: 200px;
+}
+.style{
+    display: flex;
+}
